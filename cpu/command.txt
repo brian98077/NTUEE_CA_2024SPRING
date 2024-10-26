@@ -1,0 +1,6 @@
+source 00_license.f
+source 01_run.f I0
+
+dv -no_gui
+read_verilog CHIP.v
+exit
